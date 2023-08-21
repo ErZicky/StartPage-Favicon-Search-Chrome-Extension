@@ -1,0 +1,15 @@
+.container {
+  width: 300px; /* Larghezza desiderata */
+  background-color: #eaeaea; /* Colore di sfondo desiderato */
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.text {
+  font-family: "Inconsolata", monospace;
+}
