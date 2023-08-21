@@ -1,9 +1,10 @@
 # StartPage-Favicon-Search-Chrome-Extension
-A Chrome extension that add favicons to StartPage results instead of the "anonymous view" icon (which still works if clicked)
+A simple Chrome extension that add favicons to StartPage results instead of the "anonymous view" icon (which still works if clicked).
+
+This way browsing the results is much more intuitive
 
 
 The source of the favicons is DuckDuckGo.com
-
 
 
 
