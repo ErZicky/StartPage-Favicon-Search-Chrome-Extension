@@ -9,4 +9,4 @@ The source of the favicons is DuckDuckGo.com
 
 # Screenshot
 
-![Demostrantion image](https://github.com/ErZicky/StartPage-Favicon-Search-Chrome-Extension/blob/main/images/promo.png)
+![Demostrantion image](https://github.com/ErZicky/StartPage-Favicon-Search-Chrome-Extension/images/promo.png)
