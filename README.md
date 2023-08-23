@@ -6,6 +6,8 @@ This way browsing the results is much more intuitive
 
 The source of the favicons is DuckDuckGo.com
 
+You can install it via the Chrome Store [here](https://chrome.google.com/webstore/detail/startpage-results-favicon/nnefhdhmjalgcbcckplploeigmcjlcha?hl=it)
+
 
 
 # Screenshot
