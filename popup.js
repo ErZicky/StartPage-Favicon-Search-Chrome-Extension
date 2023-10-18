@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function ()
 
   buttonA.addEventListener("click", function () {
        chrome.storage.local.set({ FavSettings: 0 });
-         // Aggiungi classe "active" al bottone A e rimuovi da B
+         // Add class "active" to ButtonA e remove it from B
     buttonA.classList.add("active");
     buttonB.classList.remove("active");
    
