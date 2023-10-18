@@ -11,7 +11,7 @@ You can install it via the Chrome Store [here](https://chrome.google.com/webstor
 
 Now you can choose to keep the anonymous view icon and put the favicon below it
 
-# Screenshot
+# Screenshots
 
 ![](https://github.com/ErZicky/StartPage-Favicon-Search-Chrome-Extension/blob/main/images/promo.png)
 
