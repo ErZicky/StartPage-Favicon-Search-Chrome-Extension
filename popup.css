@@ -1,6 +1,6 @@
 .container {
-  width: 300px; /* Larghezza desiderata */
-  background-color: #eaeaea; /* Colore di sfondo desiderato */
+  width: 300px; 
+  background-color: #eaeaea; 
   padding: 20px;
   text-align: center;
 }
