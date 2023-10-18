@@ -13,3 +13,5 @@ You can install it via the Chrome Store [here](https://chrome.google.com/webstor
 # Screenshot
 
 ![](https://github.com/ErZicky/StartPage-Favicon-Search-Chrome-Extension/blob/main/images/promo.png)
+
+![](https://github.com/ErZicky/StartPage-Favicon-Search-Chrome-Extension/blob/main/images/promo5.png)
