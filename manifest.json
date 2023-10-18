@@ -2,12 +2,11 @@
   "name": "StartPage results favicons",
   "short_name": "StartPage favicons",
   "description": "Add favicons to StartPage results page",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
-    "action": {
+  "action": {
     "default_popup": "popup.html"
   },
-
   "icons": {
     "16": "images/icon-16.png",
     "128": "images/icon-128.png"
@@ -23,5 +22,8 @@
       "run_at": "document_end",
       "all_frames": false
     }
+  ],
+  "permissions": [
+    "storage"
   ]
 }
