@@ -20,7 +20,5 @@ Now you can choose to keep the anonymous view icon and put the favicon below it
 
 # Warning
 
-```diff
-- unfortunately due to some recent changes made by the startpage team at the moment the extension is not working as startpage refuses to load images from servers other than theirs, if I find some time I will try to fix the problem but it is not a guarantee
 
-```
+ *unfortunately due to some recent changes made by the startpage team at the moment the extension is not working as startpage refuses to load images from servers other than theirs, if I find some time I will try to fix the problem but it is not a guarantee*
